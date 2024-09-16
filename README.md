@@ -36,7 +36,7 @@ An IDE like IntelliJ IDEA or Eclipse.
 
 Step-by-Step Instructions
 Clone the Repository:
-git clone <https://github.com/chloe514/ProjectOrderManagementSystem.git>
+git clone <(https://github.com/chloe514/ProjectOrderManagementSystem.git)>
 cd ProjectOrderManagementSystem
 Build the Project:
 Use Maven to build the project and install dependencies:
